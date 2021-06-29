@@ -98,6 +98,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.11</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat</groupId>
@@ -147,11 +148,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-jdbc</artifactId>
-            <version>5.0.0.BUILD-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
